@@ -2,7 +2,8 @@
 
  ## Initialisation du depot
 
-git init
+```git init
 git remote add origin SSH_DU_REPOSITORY
-git status
+git status```
+
 
