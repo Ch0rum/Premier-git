@@ -8,6 +8,7 @@ git init
 git remote add origin SSH_DU_REPOSITORY
 git status
 git push
+git log
 git pull
 ```
 
